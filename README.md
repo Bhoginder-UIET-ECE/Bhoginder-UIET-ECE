@@ -9,7 +9,7 @@
 ![namaste](gitBanner.svg)
 
 <pre align="center">
-    💼 B.E in E.C.E @ UIET,PU • BS @ IIT Madras 
+    💼 B.E in E.C.E @ UIET,PU 
     •💻  Full stack dev • 🌎 India • 🇮🇳
     🎮 Music • Games • Code • Graphic Designing
     ➡️ When I am not glued to the screen you will 
